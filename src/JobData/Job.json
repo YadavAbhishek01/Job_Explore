@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "Frontend Developer",
+    "company": "Techify Inc.",
+    "location": "Remote",
+    "salary": "$80,000 - $100,000",
+    "type": "Full-time",
+    "description": "We are looking for a skilled frontend developer with experience in React.js and modern JavaScript frameworks.",
+    "postedAt": "2025-08-17"
+  },
+  {
+    "id": 2,
+    "title": "Backend Developer",
+    "company": "CodeWorks",
+    "location": "New York, NY",
+    "salary": "$90,000 - $110,000",
+    "type": "Full-time",
+    "description": "Looking for a backend developer with expertise in Node.js, MongoDB, and REST API development.",
+    "postedAt": "2025-08-15"
+  },
+  {
+    "id": 3,
+    "title": "Full Stack Developer",
+    "company": "DevNest",
+    "location": "San Francisco, CA",
+    "salary": "$100,000 - $130,000",
+    "type": "Contract",
+    "description": "Work with both frontend and backend technologies, including React, Node, and PostgreSQL.",
+    "postedAt": "2025-08-10"
+  },
+  {
+    "id": 4,
+    "title": "React Native Developer",
+    "company": "AppStorm",
+    "location": "Remote",
+    "salary": "$70,000 - $95,000",
+    "type": "Part-time",
+    "description": "Develop mobile apps using React Native. Prior experience with mobile deployment required.",
+    "postedAt": "2025-08-12"
+  },
+  {
+    "id": 5,
+    "title": "Junior Frontend Developer",
+    "company": "WebHive",
+    "location": "Austin, TX",
+    "salary": "$60,000 - $75,000",
+    "type": "Full-time",
+    "description": "Perfect for junior developers. Knowledge of HTML, CSS, JavaScript, and React is preferred.",
+    "postedAt": "2025-08-14"
+  }
+]
+
