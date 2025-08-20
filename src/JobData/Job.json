@@ -2,7 +2,12 @@
   {
     "id": 1,
     "title": "Frontend Developer",
-    "company": "Techify Inc.",
+    "company": {
+      "name": "Techify Inc.",
+      "description": "A modern tech company focused on frontend development and UI/UX design.",
+      "contactEmail": "contact@techify.com",
+      "contactPhone": "123-456-7890"
+    },
     "location": "Remote",
     "salary": "$80,000 - $100,000",
     "type": "Full-time",
@@ -12,7 +17,12 @@
   {
     "id": 2,
     "title": "Backend Developer",
-    "company": "CodeWorks",
+    "company": {
+      "name": "CodeWorks",
+      "description": "We build scalable backend systems and infrastructure for growing startups.",
+      "contactEmail": "jobs@codeworks.io",
+      "contactPhone": "234-567-8901"
+    },
     "location": "New York, NY",
     "salary": "$90,000 - $110,000",
     "type": "Full-time",
@@ -22,7 +32,12 @@
   {
     "id": 3,
     "title": "Full Stack Developer",
-    "company": "DevNest",
+    "company": {
+      "name": "DevNest",
+      "description": "An agile software agency that handles full stack development for enterprise clients.",
+      "contactEmail": "careers@devnest.com",
+      "contactPhone": "345-678-9012"
+    },
     "location": "San Francisco, CA",
     "salary": "$100,000 - $130,000",
     "type": "Contract",
@@ -32,7 +47,12 @@
   {
     "id": 4,
     "title": "React Native Developer",
-    "company": "AppStorm",
+    "company": {
+      "name": "AppStorm",
+      "description": "Mobile-first company creating apps for iOS and Android using React Native.",
+      "contactEmail": "dev@appstorm.com",
+      "contactPhone": "456-789-0123"
+    },
     "location": "Remote",
     "salary": "$70,000 - $95,000",
     "type": "Part-time",
@@ -42,12 +62,31 @@
   {
     "id": 5,
     "title": "Junior Frontend Developer",
-    "company": "WebHive",
+    "company": {
+      "name": "WebHive",
+      "description": "A fast-growing digital agency helping small businesses go online.",
+      "contactEmail": "hello@webhive.io",
+      "contactPhone": "567-890-1234"
+    },
     "location": "Austin, TX",
     "salary": "$60,000 - $75,000",
     "type": "Full-time",
     "description": "Perfect for junior developers. Knowledge of HTML, CSS, JavaScript, and React is preferred.",
     "postedAt": "2025-08-14"
+  },
+  {
+    "id": 6,
+    "title": "Senior Frontend Developer",
+    "company": {
+      "name": "WebHive",
+      "description": "A fast-growing digital agency helping small businesses go online.",
+      "contactEmail": "hello@webhive.io",
+      "contactPhone": "567-890-1234"
+    },
+    "location": "Austin, TX",
+    "salary": "$75,000 - $85,000",
+    "type": "Full-time",
+    "description": "Perfect for SEnior developers. Knowledge of HTML, CSS, JavaScript, and React is preferred.",
+    "postedAt": "2025-08-14"
   }
 ]
-
