@@ -9,7 +9,7 @@
       "contactPhone": "123-456-7890"
     },
     "location": "Remote",
-    "salary": "$80,000 - $100,000",
+    "salary": "$80K - $90K",
     "type": "Full-time",
     "description": "We are looking for a skilled frontend developer with experience in React.js and modern JavaScript frameworks.",
     "postedAt": "2025-08-17"
@@ -24,7 +24,7 @@
       "contactPhone": "234-567-8901"
     },
     "location": "New York, NY",
-    "salary": "$90,000 - $110,000",
+    "salary": "$90K - $100K",
     "type": "Full-time",
     "description": "Looking for a backend developer with expertise in Node.js, MongoDB, and REST API development.",
     "postedAt": "2025-08-15"
@@ -39,7 +39,7 @@
       "contactPhone": "345-678-9012"
     },
     "location": "San Francisco, CA",
-    "salary": "$100,000 - $130,000",
+    "salary": "$100K - $125K",
     "type": "Contract",
     "description": "Work with both frontend and backend technologies, including React, Node, and PostgreSQL.",
     "postedAt": "2025-08-10"
@@ -54,7 +54,7 @@
       "contactPhone": "456-789-0123"
     },
     "location": "Remote",
-    "salary": "$70,000 - $95,000",
+    "salary": "$70K - $80K",
     "type": "Part-time",
     "description": "Develop mobile apps using React Native. Prior experience with mobile deployment required.",
     "postedAt": "2025-08-12"
@@ -69,7 +69,7 @@
       "contactPhone": "567-890-1234"
     },
     "location": "Austin, TX",
-    "salary": "$60,000 - $75,000",
+    "salary": "$60K - $70K",
     "type": "Full-time",
     "description": "Perfect for junior developers. Knowledge of HTML, CSS, JavaScript, and React is preferred.",
     "postedAt": "2025-08-14"
@@ -84,7 +84,7 @@
       "contactPhone": "567-890-1234"
     },
     "location": "Austin, TX",
-    "salary": "$75,000 - $85,000",
+    "salary": "$75K - $85K",
     "type": "Full-time",
     "description": "Perfect for SEnior developers. Knowledge of HTML, CSS, JavaScript, and React is preferred.",
     "postedAt": "2025-08-14"

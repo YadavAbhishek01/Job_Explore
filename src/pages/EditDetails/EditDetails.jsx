@@ -28,7 +28,7 @@ useEffect(()=>{
     setJobtype(finddata.type || ""); // Default to empty string if type is undefined
 
 
-    setJobsalary(finddata.salary);
+    setJobsalary(finddata.salary || ""); // Default to empty string if salary is undefined
     setJoblocation(finddata.location);
     setJobdescription(finddata.description);
     setCompanyname(finddata.company.name);
